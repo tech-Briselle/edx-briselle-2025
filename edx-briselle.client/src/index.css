@@ -798,3 +798,7 @@ span.flatpickr-weekday,
 .hover\:text-success:hover {
     color: #16a34a !important; /* tailwind success */
 }
+
+.bg-success {
+    background-color: #16a34a !important; /* tailwind success */
+}

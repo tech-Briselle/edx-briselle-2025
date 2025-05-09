@@ -383,7 +383,7 @@ export default function BriselleTable({ title, fetchUrl, fieldMappings, config }
             <div className="bg-customBlue text-white p-4">
                 Tailwind works!
             </div>
-            <div className="bg-blue-500 text-white p-4">
+            <div className="bg-success text-white p-4">
                 If this is blue, Tailwind is working
             </div>
         </div>

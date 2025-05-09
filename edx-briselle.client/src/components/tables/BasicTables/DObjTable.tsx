@@ -20,8 +20,8 @@ export default function DObjTable() {
             config={{
                 enableSort: true,                 // ✅ Works
                 enableHeader: true,              // ✅ Works
-                enableRowSelection: false,        // Not sure what it does, ifs about ebility to copy the table rows, yes it works.
-                enableRowHoverHighlight: false, // ✅ Works
+                enableRowSelection: true,        // Not sure what it does, ifs about ebility to copy the table rows, yes it works.
+                enableRowHoverHighlight: true, // ✅ Works
                 enableInlineEdit: ["dobj_name_display"], // ✅ Works
                 enableRowNumber: true,           // ✅ Works
                 enableStripedRows: true,         // ✅ Works
